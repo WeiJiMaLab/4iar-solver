@@ -1,0 +1,70 @@
+{
+    "solutions": [
+        33
+    ],
+    "ground truth": [
+        33
+    ],
+    "paths": [
+        [
+            "black-33-full search",
+            "white-23-Defense",
+            "black-21-full search",
+            "white-5-Defense",
+            "black-6-Defense",
+            "white-24-Defense",
+            "black-14-Defense",
+            "white-16-Defense",
+            "black-22-Force Win"
+        ],
+        [
+            "black-33-full search",
+            "white-23-Defense",
+            "black-21-full search",
+            "white-5-Defense",
+            "black-6-Defense",
+            "white-24-Defense",
+            "black-14-Defense",
+            "white-22-Defense",
+            "black-16-Force Win"
+        ],
+        [
+            "black-33-full search",
+            "white-23-Defense",
+            "black-6-full search",
+            "white-24-Defense",
+            "black-14-Defense",
+            "white-16-Defense",
+            "black-22-Force Win"
+        ],
+        [
+            "black-33-full search",
+            "white-23-Defense",
+            "black-6-full search",
+            "white-24-Defense",
+            "black-14-Defense",
+            "white-22-Defense",
+            "black-16-Force Win"
+        ],
+        [
+            "black-33-full search",
+            "white-23-Defense",
+            "black-16-full search",
+            "white-14-Defense",
+            "black-24-Defense",
+            "white-32-Defense",
+            "black-6-Force Win"
+        ],
+        [
+            "black-33-full search",
+            "white-23-Defense",
+            "black-16-full search",
+            "white-14-Defense",
+            "black-24-Defense",
+            "white-6-Defense",
+            "black-32-Force Win"
+        ]
+    ],
+    "search_time": 1.172997236251831,
+    "num. search nodes": 15259
+}

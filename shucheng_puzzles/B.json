@@ -1,0 +1,26 @@
+{
+    "solutions": [
+        23
+    ],
+    "ground truth": [
+        23
+    ],
+    "paths": [
+        [
+            "white-23-full search",
+            "black-25-Defense",
+            "white-14-full search",
+            "black-5-Defense",
+            "white-30-Force Win"
+        ],
+        [
+            "white-23-full search",
+            "black-25-Defense",
+            "white-14-full search",
+            "black-30-Defense",
+            "white-5-Force Win"
+        ]
+    ],
+    "search_time": 5.146996736526489,
+    "num. search nodes": 46305
+}

@@ -1,0 +1,220 @@
+{
+    "solutions": [
+        15
+    ],
+    "ground truth": [
+        15
+    ],
+    "paths": [
+        [
+            "white-15-full search",
+            "black-17-Defense",
+            "white-5-full search",
+            "black-23-Defense",
+            "white-33-Defense",
+            "black-6-Defense",
+            "white-34-full search",
+            "black-35-Defense",
+            "white-4-Force Win"
+        ],
+        [
+            "white-15-full search",
+            "black-17-Defense",
+            "white-5-full search",
+            "black-23-Defense",
+            "white-33-Defense",
+            "black-6-Defense",
+            "white-34-full search",
+            "black-35-Defense",
+            "white-31-Force Win"
+        ],
+        [
+            "white-15-full search",
+            "black-17-Defense",
+            "white-5-full search",
+            "black-23-Defense",
+            "white-33-Defense",
+            "black-6-Defense",
+            "white-34-full search",
+            "black-4-Defense",
+            "white-35-Force Win"
+        ],
+        [
+            "white-15-full search",
+            "black-17-Defense",
+            "white-5-full search",
+            "black-23-Defense",
+            "white-33-Defense",
+            "black-6-Defense",
+            "white-34-full search",
+            "black-4-Defense",
+            "white-31-Force Win"
+        ],
+        [
+            "white-15-full search",
+            "black-17-Defense",
+            "white-5-full search",
+            "black-23-Defense",
+            "white-33-Defense",
+            "black-6-Defense",
+            "white-34-full search",
+            "black-31-Defense",
+            "white-35-Force Win"
+        ],
+        [
+            "white-15-full search",
+            "black-17-Defense",
+            "white-5-full search",
+            "black-23-Defense",
+            "white-33-Defense",
+            "black-6-Defense",
+            "white-34-full search",
+            "black-31-Defense",
+            "white-4-Force Win"
+        ],
+        [
+            "white-15-full search",
+            "black-17-Defense",
+            "white-33-full search",
+            "black-6-Defense",
+            "white-31-full search",
+            "black-34-Defense",
+            "white-23-full search",
+            "black-5-Defense",
+            "white-7-Force Win"
+        ],
+        [
+            "white-15-full search",
+            "black-17-Defense",
+            "white-33-full search",
+            "black-6-Defense",
+            "white-31-full search",
+            "black-34-Defense",
+            "white-23-full search",
+            "black-7-Defense",
+            "white-5-Force Win"
+        ],
+        [
+            "white-15-full search",
+            "black-17-Defense",
+            "white-33-full search",
+            "black-6-Defense",
+            "white-34-full search",
+            "black-35-Defense",
+            "white-4-Force Win"
+        ],
+        [
+            "white-15-full search",
+            "black-17-Defense",
+            "white-33-full search",
+            "black-6-Defense",
+            "white-34-full search",
+            "black-35-Defense",
+            "white-31-Force Win"
+        ],
+        [
+            "white-15-full search",
+            "black-17-Defense",
+            "white-33-full search",
+            "black-6-Defense",
+            "white-34-full search",
+            "black-4-Defense",
+            "white-35-Force Win"
+        ],
+        [
+            "white-15-full search",
+            "black-17-Defense",
+            "white-33-full search",
+            "black-6-Defense",
+            "white-34-full search",
+            "black-4-Defense",
+            "white-31-Force Win"
+        ],
+        [
+            "white-15-full search",
+            "black-17-Defense",
+            "white-33-full search",
+            "black-6-Defense",
+            "white-34-full search",
+            "black-31-Defense",
+            "white-35-Force Win"
+        ],
+        [
+            "white-15-full search",
+            "black-17-Defense",
+            "white-33-full search",
+            "black-6-Defense",
+            "white-34-full search",
+            "black-31-Defense",
+            "white-4-Force Win"
+        ],
+        [
+            "white-15-full search",
+            "black-17-Defense",
+            "white-33-full search",
+            "black-6-Defense",
+            "white-5-full search",
+            "black-23-Defense",
+            "white-34-full search",
+            "black-35-Defense",
+            "white-4-Force Win"
+        ],
+        [
+            "white-15-full search",
+            "black-17-Defense",
+            "white-33-full search",
+            "black-6-Defense",
+            "white-5-full search",
+            "black-23-Defense",
+            "white-34-full search",
+            "black-35-Defense",
+            "white-31-Force Win"
+        ],
+        [
+            "white-15-full search",
+            "black-17-Defense",
+            "white-33-full search",
+            "black-6-Defense",
+            "white-5-full search",
+            "black-23-Defense",
+            "white-34-full search",
+            "black-4-Defense",
+            "white-35-Force Win"
+        ],
+        [
+            "white-15-full search",
+            "black-17-Defense",
+            "white-33-full search",
+            "black-6-Defense",
+            "white-5-full search",
+            "black-23-Defense",
+            "white-34-full search",
+            "black-4-Defense",
+            "white-31-Force Win"
+        ],
+        [
+            "white-15-full search",
+            "black-17-Defense",
+            "white-33-full search",
+            "black-6-Defense",
+            "white-5-full search",
+            "black-23-Defense",
+            "white-34-full search",
+            "black-31-Defense",
+            "white-35-Force Win"
+        ],
+        [
+            "white-15-full search",
+            "black-17-Defense",
+            "white-33-full search",
+            "black-6-Defense",
+            "white-5-full search",
+            "black-23-Defense",
+            "white-34-full search",
+            "black-31-Defense",
+            "white-4-Force Win"
+        ]
+    ],
+    "search_time": 1.4221417903900146,
+    "num. search nodes": 13840
+}
