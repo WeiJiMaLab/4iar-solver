@@ -1,9 +1,34 @@
 {
-    "solutions": [],
+    "solutions": [
+        2
+    ],
     "ground truth": [
         2
     ],
-    "paths": [],
-    "search_time": 25.56899881362915,
-    "num. search nodes": 252422
+    "paths": [
+        [
+            "white-2-full search",
+            "black-12-Defense",
+            "white-11-Defense",
+            "black-29-Defense",
+            "white-1-full search",
+            "black-31-Defense",
+            "white-3-full search",
+            "black-0-Defense",
+            "white-4-Force Win"
+        ],
+        [
+            "white-2-full search",
+            "black-12-Defense",
+            "white-11-Defense",
+            "black-29-Defense",
+            "white-1-full search",
+            "black-31-Defense",
+            "white-3-full search",
+            "black-4-Defense",
+            "white-0-Force Win"
+        ]
+    ],
+    "search_time": 245.4539988040924,
+    "num. search nodes": 2491080
 }

@@ -23,8 +23,60 @@
             "black-31-full search",
             "white-15-Defense",
             "black-1-Force Win"
+        ],
+        [
+            "black-5-full search",
+            "white-29-Defense",
+            "black-7-full search",
+            "white-8-Defense",
+            "black-15-full search",
+            "white-31-Defense",
+            "black-25-full search",
+            "white-35-Defense",
+            "black-24-full search",
+            "white-33-Defense",
+            "black-26-Force Win"
+        ],
+        [
+            "black-5-full search",
+            "white-29-Defense",
+            "black-7-full search",
+            "white-8-Defense",
+            "black-15-full search",
+            "white-31-Defense",
+            "black-25-full search",
+            "white-35-Defense",
+            "black-24-full search",
+            "white-26-Defense",
+            "black-33-Force Win"
+        ],
+        [
+            "black-5-full search",
+            "white-29-Defense",
+            "black-7-full search",
+            "white-8-Defense",
+            "black-15-full search",
+            "white-31-Defense",
+            "black-24-full search",
+            "white-33-Defense",
+            "black-25-full search",
+            "white-26-Defense",
+            "black-35-Force Win"
+        ],
+        [
+            "black-5-full search",
+            "white-29-Defense",
+            "black-7-full search",
+            "white-8-Defense",
+            "black-15-full search",
+            "white-31-Defense",
+            "black-24-full search",
+            "white-33-Defense",
+            "black-25-full search",
+            "white-35-Defense",
+            "black-26-Force Win"
         ]
     ],
-    "search_time": 1.7210147380828857,
-    "num. search nodes": 12165
+    "search_time": 18.099986791610718,
+    "num. search nodes": 130979
 }
